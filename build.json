@@ -1,7 +1,7 @@
 {
 	"id": "ipsum_blocker",
 	"version": "1.0",
-	"description": "Better Cronjobs for UliCMS",
+	"description": "Block IP addresses known for bad behavior based on IPsum ",
 	"categories": [
 		"development"
 	],
