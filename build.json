@@ -1,0 +1,9 @@
+{
+	"id": "ipsum_blocker",
+	"version": "1.0",
+	"description": "Better Cronjobs for UliCMS",
+	"categories": [
+		"development"
+	],
+	"compatible_from": "2023.4"
+}
